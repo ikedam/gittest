@@ -1,7 +1,7 @@
 000 change in a branch.
 111
 222
-333 changed in a branch, and will be reverted.
+333
 444
 555
 666
